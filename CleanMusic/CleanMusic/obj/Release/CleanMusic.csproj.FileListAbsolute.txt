@@ -1,0 +1,17 @@
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\CleanMusic.exe.config
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\CleanMusic.exe.manifest
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\CleanMusic.application
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\CleanMusic.exe
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\CleanMusic.pdb
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\taglib-sharp.dll
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.csprojResolveAssemblyReference.cache
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.EditForm.resources
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.Form1.resources
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.Properties.Resources.resources
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.csproj.GenerateResource.Cache
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.exe.manifest
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.application
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.exe
+C:\Users\raifo_000\Desktop\C# Practice\CleanMusic\CleanMusic\obj\Release\CleanMusic.pdb
